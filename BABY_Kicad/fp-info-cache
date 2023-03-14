@@ -1,4 +1,4 @@
-21503525855644600
+21505204691052246
 1_SynthFootprints
 2x1_ScrewTerminal_P5.00mm
 
@@ -36,11 +36,11 @@ Panel Cutout to mount dc jack (e.g. Tayda A-5245) to pcb for offboard wiring
 1
 1_SynthFootprints
 DPDT_Tayda
-
+Sub Miniature Toggle Switch DPDT, Dailywell 1MDx series, e.g. Tayda A-5951
 
 0
-3
-3
+6
+6
 1_SynthFootprints
 L7805
 3-Pin TO-220
@@ -69,6 +69,13 @@ MultiturnTrimmer
 0
 3
 3
+1_SynthFootprints
+PanelHole_DPDT_Tayda
+Sub Miniature Toggle Switch DPDT, Dailywell 1MDx series, e.g. Tayda A-5951
+
+0
+1
+0
 1_SynthFootprints
 SPDT_Tayda
 
