@@ -1,4 +1,4 @@
-21505204691052246
+21516959630620316
 1_SynthFootprints
 2x1_ScrewTerminal_P5.00mm
 
@@ -20,6 +20,13 @@ Tayda A-2956
 0
 16
 16
+1_SynthFootprints
+AudioJack_3.5mm_noRestrictions
+
+
+0
+3
+3
 1_SynthFootprints
 BananaPlugCutout
 Cutout for 4mm Banana Sockets for offboard wiring, eg. Tayda A-4259
@@ -70,12 +77,33 @@ MultiturnTrimmer
 3
 3
 1_SynthFootprints
+PanelHole_AudioJack_3.5mm_noCourtyard
+
+
+0
+1
+0
+1_SynthFootprints
 PanelHole_DPDT_Tayda
 Sub Miniature Toggle Switch DPDT, Dailywell 1MDx series, e.g. Tayda A-5951
 
 0
 1
 0
+1_SynthFootprints
+PanelHole_PushButton
+
+
+0
+1
+0
+1_SynthFootprints
+Push_Botton
+Momentary Push Botton PC mount, e.g. Tayda A-5051
+
+0
+2
+2
 1_SynthFootprints
 SPDT_Tayda
 
@@ -218,6 +246,27 @@ Wire_1mm
 1
 3_Graphics
 logo
+
+
+0
+0
+0
+3_Graphics
+logo_kicad2
+
+
+0
+0
+0
+3_Graphics
+logo_v1
+
+
+0
+0
+0
+3_Graphics
+logo_v2
 
 
 0
